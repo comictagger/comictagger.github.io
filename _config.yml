@@ -1,1 +1,3 @@
 remote_theme: madforjekyll/madforjekyll.github.io
+assets:
+  owner: assets/owner
